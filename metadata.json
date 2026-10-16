@@ -1,0 +1,10 @@
+{
+  "name": "Albanian Queen - AI Voice Assistant & Career Coach",
+  "description": "A vibrant beach-tropical multilingual AI voice assistant in English, French, and Albanian powered by Gemini 3.8 Live to explore, discuss, and elevate your CV and career.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
